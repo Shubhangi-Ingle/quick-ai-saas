@@ -1,6 +1,6 @@
 # 🚀 QuickAI SaaS
 
-QuickAI is a full-stack AI-powered SaaS platform offering a suite of tools such as Resume Review, Background Removal, AI Chat, Image Generation, and Community Sharing — all seamlessly integrated with real-time AI services.
+QuickAI is a full-stack AI-powered SaaS platform offering a suite of tools such as Article generation, Blog Title generation, Resume Review, Background Removal,  Image Generation, and Community Sharing — all seamlessly integrated with real-time AI services.
 
 ✨ [Live Demo](https://quick-ai-saas.vercel.app/ai/community)  
 📂 [GitHub Repository](https://github.com/Shubhangi-Ingle/QuickAi-SaaS)
@@ -23,7 +23,7 @@ QuickAI is a full-stack AI-powered SaaS platform offering a suite of tools such 
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+Frontend
 
 - React 19 (Vite-based)
 - Tailwind CSS 4.1
@@ -33,11 +33,11 @@ QuickAI is a full-stack AI-powered SaaS platform offering a suite of tools such 
 - React Hot Toast
 - Lucide React Icons
 
-**Authentication**
+Authentication
 
 - Clerk.dev (Secure and reliable user authentication)
 
-**APIs Used**
+APIs Used
 
 - Gemini API (Resume Review, AI Chat)
 - ClipDrop API (Image Generation)
@@ -45,3 +45,6 @@ QuickAI is a full-stack AI-powered SaaS platform offering a suite of tools such 
 🌐 Deployment
 Deploy easily on Vercel with just a few clicks. Ensure your environment variables are set properly in the Vercel dashboard.
 
+📬 Contact
+Made with ❤️ by Shubhangi Ingle
+For queries or collaborations, feel free to reach out.
