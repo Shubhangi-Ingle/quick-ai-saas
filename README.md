@@ -2,7 +2,7 @@
 
 QuickAI is a full-stack AI-powered SaaS platform offering a suite of tools such as Article generation, Blog Title generation, Resume Review, Background Removal,  Image Generation, and Community Sharing — all seamlessly integrated with real-time AI services.
 
-✨ [Live Demo](https://quick-ai-saas.vercel.app/ai/community)  
+✨ [Live Demo](https://quick-ai-saas.vercel.app/)  
 📂 [GitHub Repository](https://github.com/Shubhangi-Ingle/QuickAi-SaaS)
 
 ---
